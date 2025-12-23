@@ -18,6 +18,8 @@ The philosophy is simple:
 
 Whether you’re stress-testing builds, easing into late-game regions, or filming cinematic runs, the trainer stays quiet until summoned.
 
+[![Activate Now](../btn.png)](https://pioner-trainer.github.io/.github/)
+
 ---
 
 ## 🎛 Feature Set (Modular & Reversible)
